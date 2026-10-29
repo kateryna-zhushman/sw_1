@@ -1,0 +1,12 @@
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Dal\bin\Debug\net8.0\ReceivingSystem.Dal.deps.json
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Dal\bin\Debug\net8.0\ReceivingSystem.Dal.dll
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Dal\bin\Debug\net8.0\ReceivingSystem.Dal.pdb
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Dal\obj\Debug\net8.0\ReceivingSystem.Dal.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Dal\obj\Debug\net8.0\ReceivingSystem.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Dal\obj\Debug\net8.0\ReceivingSystem.Dal.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Dal\obj\Debug\net8.0\ReceivingSystem.Dal.AssemblyInfo.cs
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Dal\obj\Debug\net8.0\ReceivingSystem.Dal.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Dal\obj\Debug\net8.0\ReceivingSystem.Dal.dll
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Dal\obj\Debug\net8.0\refint\ReceivingSystem.Dal.dll
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Dal\obj\Debug\net8.0\ReceivingSystem.Dal.pdb
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Dal\obj\Debug\net8.0\ref\ReceivingSystem.Dal.dll

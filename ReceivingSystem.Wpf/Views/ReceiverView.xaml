@@ -1,0 +1,31 @@
+<Window x:Class="ReceivingSystem.Wpf.Views.ReceiverView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Приймальник товару" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Margin="0,0,10,0">
+            <TextBlock Text="Прийом товару" FontWeight="Bold" FontSize="16" Margin="0,0,0,10"/>
+            <TextBlock Text="Категорія:"/>
+            <ComboBox ItemsSource="{Binding Categories}" SelectedItem="{Binding SelectedCategory}" DisplayMemberPath="Name" Margin="0,5"/>
+            <TextBlock Text="Товар:"/>
+            <ComboBox ItemsSource="{Binding Products}" SelectedItem="{Binding SelectedProduct}" DisplayMemberPath="Name" Margin="0,5"/>
+            <TextBlock Text="Кількість:"/>
+            <TextBox Text="{Binding QuantityInput, UpdateSourceTrigger=PropertyChanged}" Margin="0,5"/>
+            <Button Content="Зберегти" Command="{Binding AddReceiptCommand}" Margin="0,10,0,0"/>
+            <TextBlock Text="{Binding ErrorMessage}" Foreground="Red" Margin="0,5"/>
+        </StackPanel>
+
+        <DockPanel Grid.Column="1">
+            <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" Margin="0,0,0,10">
+                <TextBlock Text="Пошук:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                <TextBox Text="{Binding SearchFilter, UpdateSourceTrigger=PropertyChanged}" Width="150"/>
+            </StackPanel>
+            <DataGrid ItemsSource="{Binding Receipts}" AutoGenerateColumns="True" IsReadOnly="True"/>
+        </DockPanel>
+    </Grid>
+</Window>

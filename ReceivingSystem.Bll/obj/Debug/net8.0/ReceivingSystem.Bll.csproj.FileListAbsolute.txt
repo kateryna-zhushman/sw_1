@@ -1,0 +1,15 @@
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\bin\Debug\net8.0\ReceivingSystem.Bll.deps.json
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\bin\Debug\net8.0\ReceivingSystem.Bll.dll
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\bin\Debug\net8.0\ReceivingSystem.Bll.pdb
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\bin\Debug\net8.0\ReceivingSystem.Dal.dll
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\bin\Debug\net8.0\ReceivingSystem.Dal.pdb
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\obj\Debug\net8.0\ReceivingSystem.Bll.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\obj\Debug\net8.0\ReceivingSystem.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\obj\Debug\net8.0\ReceivingSystem.Bll.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\obj\Debug\net8.0\ReceivingSystem.Bll.AssemblyInfo.cs
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\obj\Debug\net8.0\ReceivingSystem.Bll.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\obj\Debug\net8.0\Receivin.00CE56B1.Up2Date
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\obj\Debug\net8.0\ReceivingSystem.Bll.dll
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\obj\Debug\net8.0\refint\ReceivingSystem.Bll.dll
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\obj\Debug\net8.0\ReceivingSystem.Bll.pdb
+C:\Users\1\Downloads\ReceivingSystem_Complete_Solution\ReceivingSystem.Bll\obj\Debug\net8.0\ref\ReceivingSystem.Bll.dll
